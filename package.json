@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "discord.js": "^13.6.0",
-    "fortune-cookie-generator": "^0.9.0"
+    "fortune-cookie-generator": "^1.0.1"
   }
 }
